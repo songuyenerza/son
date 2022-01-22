@@ -28,7 +28,7 @@ function HomePage() {
                 </p>
                 <Link
                     to="/"
-                    className="px-6 py-3 bg-gray-100 rounded-lg hover:bg-white-100"
+                    className="px-6 py-3 bg-gray-100 rounded-lg hover:bg-red-100"
                 >
                     Hello friends
                 </Link>
